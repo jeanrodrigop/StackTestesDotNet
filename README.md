@@ -7,6 +7,7 @@
   <li>Testes de unidade</li>
   <li>Testes de integração</li>
   <li>Testes automatizados</li>
+  <li>MVC</li>
 </ul>
 
 </p>
