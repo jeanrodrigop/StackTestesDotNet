@@ -1,0 +1,55 @@
+{
+  "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "Vaquinha.MVC",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "views\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\_ViewStart.cshtml",
+      "TargetPath": "views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\Index.cshtml",
+      "TargetPath": "views\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\Error.cshtml",
+      "TargetPath": "views\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\Create.cshtml",
+      "TargetPath": "views\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\_Layout.cshtml",
+      "TargetPath": "views\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jeanr\\Desktop\\-Implementando-stack-de-testes-de-unidade-main\\src\\Vaquinha.MVC\\views\\_ViewImports.cshtml",
+      "TargetPath": "views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
